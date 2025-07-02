@@ -33,3 +33,9 @@ This project analyzes an impression network of students based on data provided i
 2. Install required Python libraries:
    ```bash
    pip install pandas numpy
+3. Run the script:
+   ```bash
+   python project2.py
+## Author
+
+Polisetty Tharun Sai (2023CSB1144)
